@@ -11,7 +11,7 @@ st.set_page_config(
 st.markdown("""
     <div style='text-align: center; margin-top: 20px; margin-bottom: 30px;'>
         <h3 style='color: #64748b; font-weight: 500; letter-spacing: 1.5px; margin-bottom: 5px;'>
-            숭실대학교 차세대반도체학과
+            
         </h3>
         <h1 style='color: #0f172a; font-weight: 800; font-size: 2.8rem; margin-top: 0px;'>
             AI 반도체 PPACT 시뮬레이터
